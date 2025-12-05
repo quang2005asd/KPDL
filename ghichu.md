@@ -13,3 +13,13 @@ sau khi megre xong
 thì xóa code của mình đi 
 
 git branch -d nhanhcuaquang -> sau khi pull xong và tạo request thì xóa nhánh bằng lệnh này 
+
+
+sau khi xong mà muốn pull code mới nhất về thì hãy 
+
+git checkout main -> này sẽ chuyển về nhánh main
+
+xong thì pull code mới về và 
+git pull
+git pull -rebase origin main  -> này dùng ok hơn
+
