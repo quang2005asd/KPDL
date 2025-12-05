@@ -23,3 +23,9 @@ xong thì pull code mới về và
 git pull
 git pull -rebase origin main  -> này dùng ok hơn
 
+
+
+python -m venv venv
+
+venv\Scripts\activate
+pip install numpy pandas matplotlib
