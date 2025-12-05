@@ -28,4 +28,4 @@ git pull -rebase origin main  -> này dùng ok hơn
 python -m venv venv
 
 venv\Scripts\activate
-pip install numpy pandas matplotlib
+pip install numpy pandas matplotlibgit 
